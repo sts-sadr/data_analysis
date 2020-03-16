@@ -27,4 +27,4 @@ Great tutorial can be found at [w3schools.com](https://www.w3schools.con/sql/def
 
 ## My Solutions
 
-* [World Happiness Exercise](happiness/World_Happiness_Exercise.ipynb)
+* [World Happiness Exercise](https://colab.research.google.com/drive/1k9caWiFo0YOh4WVFbGjMJAK2aoXw-qRQ)
