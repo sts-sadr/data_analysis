@@ -19,7 +19,7 @@ The packages that will be needed to learn are:
 
 We will be using SQLite as the primary relational database management system. As a data analyst, SQL is your primary language, not Python, nor R. SQL will start to be used in week 5, so we need to start getting familiar with it.
 
-Great tutorial can be found at [w3schools.com](https://www.w3schools.con/sql/default.asp). We should go through everything on the list on the left. [Kaggle](https://www.kaggle.com/learn/overview) is also recommended to get a better understanding.
+Great tutorial can be found at [w3schools.com](https://www.w3schools.com/sql/default.asp). We should go through everything on the list on the left. [Kaggle](https://www.kaggle.com/learn/overview) is also recommended to get a better understanding.
 
 ## Exercises
 
